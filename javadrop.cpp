@@ -1,6 +1,6 @@
 /*
 * Brock DEV
-* See COPYRIGHT file.
+* See LICENSE file.
 *
 * Developed by
 * Brock DEV (https://github.com/BrockDeveloper).
