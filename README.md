@@ -11,3 +11,7 @@ When you want to run a java program (.jar) without graphical interface (from com
 ### How to use it?
 - Copy the executable file (JavaDrop.exe) to a convenient location, such as on the Desktop
 - When you want to run a jar file, simply drag it to the previously copied executable and drop it (when "Open with JavaDrop.exe" appears)
+
+### Customization
+Modify the source code to your liking.
+If you want to share it, do it! but follow the [license](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en) please.
